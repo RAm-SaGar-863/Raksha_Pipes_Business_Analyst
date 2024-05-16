@@ -1,6 +1,5 @@
 # Raksha Pipes Business Analyst Assignment
 
-# Raksha Pipes Business Analyst Assignment
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
